@@ -1,0 +1,180 @@
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=1	invalid game price £1.69 for 侦查故事：风声: invalid price string: strconv.ParseFloat: parsing "\xa31.69": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=2	invalid game price 
+                        £4.99                     for 《The Sims™ 4 生活小物套件包》: invalid price string: strconv.ParseFloat: parsing "\xa34.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=3	invalid game price 
+                        £5.99                     for 龙珠 异战2 - 正义的英雄篇包第1弹: invalid price string: strconv.ParseFloat: parsing "\xa35.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=4	invalid game price 
+                        £8.50                     for 3on3 FreeStyle – Battle Pass 2022 Autumn Part.2: invalid price string: strconv.ParseFloat: parsing "\xa38.50": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=5	invalid game price 
+                        £4.49                     for The Unliving - Digital Artbook: invalid price string: strconv.ParseFloat: parsing "\xa34.49": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=6	invalid game price 
+                        £11.39                     for Doors: Paradox: invalid price string: strconv.ParseFloat: parsing "\xa311.39": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=7	invalid game price 
+                        £12.79                     for Kartoffl: invalid price string: strconv.ParseFloat: parsing "\xa312.79": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=8	invalid game price 
+                        £23.99                     for The Entropy Centre: invalid price string: strconv.ParseFloat: parsing "\xa323.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=9	invalid game price 
+                        £4.99                     for 《哆啦A梦 牧场物语 自然王国与和乐家人》DLC组合1＂冬天的生活＂: invalid price string: strconv.ParseFloat: parsing "\xa34.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=10	invalid game price 
+                        £6.99                     for 像素牧场物语 (8-Bit Farm): invalid price string: strconv.ParseFloat: parsing "\xa36.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=11	invalid game price 
+                        £3.99                     for 旅行恋恋Art Book: 恋恋下午茶喂养指南 Simple Tea-Time: invalid price string: strconv.ParseFloat: parsing "\xa33.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=12	invalid game price 
+                        £6.19                     for RPG Maker MV - KR Horror Kit Tileset: invalid price string: strconv.ParseFloat: parsing "\xa36.19": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=13	invalid game price 
+                        £0.99                     for Blacksmith Weapon Merchant - Nerds DLC: invalid price string: strconv.ParseFloat: parsing "\xa30.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=14	invalid game price 
+                        £7.49                     for Brawlhalla - BCX 2022 Pack: invalid price string: strconv.ParseFloat: parsing "\xa37.49": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=15	invalid game price 
+                        £24.99                     for Pathfinder: Wrath of the Righteous – Season Pass 2: invalid price string: strconv.ParseFloat: parsing "\xa324.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=16	invalid game price 
+                        £11.39                     for 美魔女的养生秘诀: invalid price string: strconv.ParseFloat: parsing "\xa311.39": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=17	invalid game price 
+                        £15.49                     for Sumo Seals: invalid price string: strconv.ParseFloat: parsing "\xa315.49": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=18	invalid game price 
+                        £0.79                     for 回音 - 药草素材套组(1): invalid price string: strconv.ParseFloat: parsing "\xa30.79": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=19	invalid game price 
+                        £3.19                     for 纷争终结者: 被遗弃的孩子们 - 阿尔伯斯套装: invalid price string: strconv.ParseFloat: parsing "\xa33.19": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=20	invalid game price 
+                        £2.89                     for 《Dread Hunger》历史掌舵室: invalid price string: strconv.ParseFloat: parsing "\xa32.89": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=21	invalid game price 
+                        £19.99                     for 巴特拉：家在何方: invalid price string: strconv.ParseFloat: parsing "\xa319.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=22	invalid game price 
+                        £12.49                     for 海平线 无尽旅程: invalid price string: strconv.ParseFloat: parsing "\xa312.49": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=23	invalid game price 
+                        £7.19                     for 蜡笔小新 风起云涌! 火焰的春日部快腿侠!!: invalid price string: strconv.ParseFloat: parsing "\xa37.19": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=24	invalid game price 
+                        £15.59                     for Indoorlands: invalid price string: strconv.ParseFloat: parsing "\xa315.59": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=25	invalid game price 
+                        £49.99                     for TRIANGLE STRATEGY: invalid price string: strconv.ParseFloat: parsing "\xa349.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=26	invalid game price 
+                        £2.09                     for Village Defender: invalid price string: strconv.ParseFloat: parsing "\xa32.09": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=27	invalid game price 
+                        £3.59                     for Masterchef Ice Cream Edition: invalid price string: strconv.ParseFloat: parsing "\xa33.59": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=28	invalid game price 
+                        £3.75                     for Eville - Little Acora Brother Pack: invalid price string: strconv.ParseFloat: parsing "\xa33.75": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=29	invalid game price 
+                        £5.79                     for 水城守护战: invalid price string: strconv.ParseFloat: parsing "\xa35.79": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=30	invalid game price 
+                        £15.49                     for RPG Maker MV - Future Cyberpunk Collection Vol.2: invalid price string: strconv.ParseFloat: parsing "\xa315.49": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=31	invalid game price 
+                        £32.99                     for Warframe Revenant Prime Access：配件包: invalid price string: strconv.ParseFloat: parsing "\xa332.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=32	invalid game price 
+                        £11.39                     for Outcore: OST Supporter Pack: invalid price string: strconv.ParseFloat: parsing "\xa311.39": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=33	invalid game price 
+                        £7.19                     for 混沌小队（CHAOS SQUAD）: invalid price string: strconv.ParseFloat: parsing "\xa37.19": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=34	invalid game price 
+                        £6.99                     for R-Type Final 2 - DLC Set 8: invalid price string: strconv.ParseFloat: parsing "\xa36.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=35	invalid game price £15.00 for 融雪: invalid price string: strconv.ParseFloat: parsing "\xa315.00": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=36	invalid game price 
+                        £3.49                     for NTBSS Master Character Training Pack - Konohamaru Sarutobi (BORUTO): invalid price string: strconv.ParseFloat: parsing "\xa33.49": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=37	invalid game price 
+                        £0.79                     for 摆渡人生：末日危机: invalid price string: strconv.ParseFloat: parsing "\xa30.79": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=38	invalid game price 
+                        £1.99                     for Monster Hunter Rise - 追加外观武器“失落代码【伊奇巴尔】”（弓）: invalid price string: strconv.ParseFloat: parsing "\xa31.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=39	invalid game price 
+                        £1.69                     for Monster Hunter Rise - 追加艾露猫外观装备“秋风猫系列”: invalid price string: strconv.ParseFloat: parsing "\xa31.69": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=40	invalid game price 
+                        £13.99                     for 二十一: invalid price string: strconv.ParseFloat: parsing "\xa313.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=41	invalid game price 
+                        £31.99                     for Kena: Bridge of Spirits: invalid price string: strconv.ParseFloat: parsing "\xa331.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=42	invalid game price 
+                        £5.79                     for 勇者之书: invalid price string: strconv.ParseFloat: parsing "\xa35.79": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=43	invalid game price 
+                        £2.89                     for ALIEN WAR: invalid price string: strconv.ParseFloat: parsing "\xa32.89": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=44	invalid game price 
+                        £2.89                     for 锻灵ElementForger: invalid price string: strconv.ParseFloat: parsing "\xa32.89": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=45	invalid game price 
+                        £19.49                     for FitnessVR: invalid price string: strconv.ParseFloat: parsing "\xa319.49": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=46	invalid game price 
+                        £1.69                     for 镜·碎: invalid price string: strconv.ParseFloat: parsing "\xa31.69": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=47	invalid game price 
+                        £1.69                     for Memory Lost-Pairs - Halloween Pack: invalid price string: strconv.ParseFloat: parsing "\xa31.69": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=48	invalid game price 
+                        £7.99                     for “灶门炭治郎（游郭篇）”“我妻善逸（游郭篇）”“嘴平伊之助（游郭篇）”角色包: invalid price string: strconv.ParseFloat: parsing "\xa37.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=49	invalid game price 
+                        £4.99                     for 奇妙探险队2 Curious Expedition 2 - 光明机器人 Robots of Lux: invalid price string: strconv.ParseFloat: parsing "\xa34.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=50	invalid game price 
+                        £16.99                     for 狂野泊车: invalid price string: strconv.ParseFloat: parsing "\xa316.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=51	invalid game price 
+                        £11.39                     for 收容：秘密档案: invalid price string: strconv.ParseFloat: parsing "\xa311.39": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=52	invalid game price £0.79 for Witch Story: invalid price string: strconv.ParseFloat: parsing "\xa30.79": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=53	invalid game price 
+                        £3.99                     for 天使军团-Angel Legion-DLC 韶华（白）: invalid price string: strconv.ParseFloat: parsing "\xa33.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=54	invalid game price 
+                        £6.19                     for On the Dragon Wings - Birth of a Hero: invalid price string: strconv.ParseFloat: parsing "\xa36.19": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=55	invalid game price 
+                        £1.69                     for 实用配件套组: invalid price string: strconv.ParseFloat: parsing "\xa31.69": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=56	invalid game price 
+                        £24.99                     for Train Sim World®: Harlem Line: Grand Central Terminal - North White Plains Route Add-On - TSW2 & TSW3 compatible: invalid price string: strconv.ParseFloat: parsing "\xa324.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=57	invalid game price 
+                        £11.99                     for Train Sim World®: Caltrain MP15DC Diesel Switcher Loco Add-On - TSW2 & TSW3 compatible: invalid price string: strconv.ParseFloat: parsing "\xa311.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=58	invalid game price 
+                        £11.39                     for Monstrum 2: invalid price string: strconv.ParseFloat: parsing "\xa311.39": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=59	invalid game price 
+                        £9.29                     for 听写音乐: invalid price string: strconv.ParseFloat: parsing "\xa39.29": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=60	invalid game price 
+                        £4.99                     for cyVeRpunk: invalid price string: strconv.ParseFloat: parsing "\xa34.99": invalid syntax
+
+https://store.steampowered.com/search/?sort_by=Released_DESC&page=61	invalid game price 
+                        £4.99                     for 栈道模拟: invalid price string: strconv.ParseFloat: parsing "\xa34.99": invalid syntax
+
